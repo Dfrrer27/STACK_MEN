@@ -1,0 +1,7 @@
+# Carpetas
+node_modules/
+dist/
+coverage/
+
+# Archivos
+.env
